@@ -3,9 +3,6 @@
 #include <QPropertyAnimation>
 #include <openssl/hmac.h>
 #include <openssl/err.h>
-#include <openssl/ec.h>
-#include <openssl/ecdsa.h>
-#include <openssl/obj_mac.h>
 #include <QByteArray>
 #include <QString>
 #include <QTextEdit>
