@@ -25,7 +25,7 @@ This desktop application, **Json-Web-Tokens**, is inspired by the JWT website [j
 ### JWT generation interface : 
 
 <p align="center">
-  <img src="Json-Web-Tokens/Generate-interface" alt="JWT Logo">
+  <img src="Json-Web-Tokens/Generate-Interface.png" alt="JWT Logo">
 </p>
 
 ### Verification interface :
