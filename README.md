@@ -17,6 +17,24 @@ This desktop application, **Json-Web-Tokens**, is inspired by the JWT website [j
 - Validate existing JWTs to ensure their integrity and authenticity.
 - Supports the HS256, HS384 and HS512 algorithms.
 
+### Home interface : 
+<p align="center">
+  <img src="Json-Web-Tokens/icons/Home-interface" alt="JWT Logo">
+</p>
+
+### JWT generation interface : 
+
+<p align="center">
+  <img src="Json-Web-Tokens/icons/Generate-interface" alt="JWT Logo">
+</p>
+
+### Verification interface :
+
+<p align="center">
+  <img src="Json-Web-Tokens/icons/Verify-interface.png" alt="JWT Logo">
+</p>
+
+
 ## Requirements
 - Windows operating system
 - Qt 6.7.2 or compatible version
