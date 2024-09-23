@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/check-square.svg</file>
+        <file>icons/code.svg</file>
+        <file>icons/home.svg</file>
+        <file>icons/JWT.png</file>
+        <file>icons/JWT_Logo.png</file>
+        <file>icons/lock.svg</file>
+        <file>icons/x.png</file>
+    </qresource>
+</RCC>
