@@ -12,6 +12,11 @@ This desktop application, **Json-Web-Tokens**, is inspired by the popular JWT we
 - Validate existing JWTs to ensure their integrity and authenticity.
 - Supports the HS256, HS384 and HS512 algorithms.
 
+## Requirements
+- Windows operating system
+- Qt 6.7.2 or compatible version
+- MinGW compiler (if building from source)
+
 ## Installation
 1. Clone the repository:
    ```bash
@@ -22,7 +27,3 @@ This desktop application, **Json-Web-Tokens**, is inspired by the popular JWT we
 
 4. Ensure all necessary DLL files from the release folder are included in the same directory as the executable.
 
-## Requirements
-- Windows operating system
-- Qt 6.7.2 or compatible version
-- MinGW compiler (if building from source)
