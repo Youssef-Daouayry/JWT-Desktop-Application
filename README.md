@@ -24,6 +24,6 @@ This desktop application, **Json-Web-Tokens**, is inspired by the popular JWT we
 4. Ensure all necessary DLL files from the release folder are included in the same directory as the executable.
 
 ## Requirements
-Windows operating system
-Qt 6.7.2 or compatible version
-MinGW compiler (if building from source)
+- Windows operating system
+- Qt 6.7.2 or compatible version
+- MinGW compiler (if building from source)
