@@ -1,6 +1,6 @@
 JWT Desktop Application
 
-![JWT Example](icons/JWT_Logo)
+<img src="icons/JWT_Logo">
 
 ## Overview
 JSON Web Tokens (JWTs) are an open, industry-standard method for representing claims securely between two parties. They are commonly used for authentication and information exchange in web applications. By using JWTs, developers can create stateless authentication systems, enabling users to log in once and maintain their session without the need for a server-side session store.
