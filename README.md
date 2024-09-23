@@ -1,10 +1,12 @@
-# Json-Web-Tokens
+JWT Desktop Application
+
+![JWT Example](Json-Web-Tokens/icons/JWT_Logo)
 
 ## Overview
 JSON Web Tokens (JWTs) are an open, industry-standard method for representing claims securely between two parties. They are commonly used for authentication and information exchange in web applications. By using JWTs, developers can create stateless authentication systems, enabling users to log in once and maintain their session without the need for a server-side session store.
 
 ## About the Application
-This desktop application, **Json-Web-Tokens**, is inspired by the popular JWT website [jwt.io](https://jwt.io/), which provides tools for decoding, verifying, and generating JWTs. Our application offers a user-friendly interface that simplifies the process of managing JWTs, allowing developers to generate tokens with customizable claims and validate existing tokens easily.
+This desktop application, **Json-Web-Tokens**, is inspired by the JWT website [jwt.io](https://jwt.io/), which provides tools for decoding, verifying, and generating JWTs. Our application offers a user-friendly interface that simplifies the process of managing JWTs, allowing developers to generate tokens with customizable claims and validate existing tokens easily.
 
 ## Features
 - Simple and intuitive interface built using the Qt framework.
