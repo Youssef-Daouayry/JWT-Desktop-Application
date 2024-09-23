@@ -19,19 +19,19 @@ This desktop application, **Json-Web-Tokens**, is inspired by the JWT website [j
 
 ### Home interface : 
 <p align="center">
-  <img src="Json-Web-Tokens/icons/Home-interface" alt="JWT Logo">
+  <img src="Json-Web-Tokens/Home-interface" alt="JWT Logo">
 </p>
 
 ### JWT generation interface : 
 
 <p align="center">
-  <img src="Json-Web-Tokens/icons/Generate-interface" alt="JWT Logo">
+  <img src="Json-Web-Tokens/Generate-interface" alt="JWT Logo">
 </p>
 
 ### Verification interface :
 
 <p align="center">
-  <img src="Json-Web-Tokens/icons/Verify-interface.png" alt="JWT Logo">
+  <img src="Json-Web-Tokens/Verify-interface.png" alt="JWT Logo">
 </p>
 
 
